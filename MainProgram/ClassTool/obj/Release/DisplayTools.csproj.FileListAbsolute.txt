@@ -1,0 +1,52 @@
+E:\users\lenovo\documents\visual studio 2015\Projects\ViewTool\ViewTool\bin\Release\ViewTool.exe
+E:\users\lenovo\documents\visual studio 2015\Projects\ViewTool\ViewTool\bin\Release\ViewTool.pdb
+E:\users\lenovo\documents\visual studio 2015\Projects\ViewTool\ViewTool\obj\Release\ViewTool.Form3.resources
+E:\users\lenovo\documents\visual studio 2015\Projects\ViewTool\ViewTool\obj\Release\ViewTool.Form1.resources
+E:\users\lenovo\documents\visual studio 2015\Projects\ViewTool\ViewTool\obj\Release\ViewTool.Form2.resources
+E:\users\lenovo\documents\visual studio 2015\Projects\ViewTool\ViewTool\obj\Release\ViewTool.Properties.Resources.resources
+E:\users\lenovo\documents\visual studio 2015\Projects\ViewTool\ViewTool\obj\Release\DisplayTools.csproj.GenerateResource.Cache
+E:\users\lenovo\documents\visual studio 2015\Projects\ViewTool\ViewTool\obj\Release\ViewTool.exe
+E:\users\lenovo\documents\visual studio 2015\Projects\ViewTool\ViewTool\obj\Release\ViewTool.pdb
+E:\users\lenovo\documents\visual studio 2015\Projects\ViewTool\ViewTool\obj\Release\DisplayTools.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\ViewTool\ViewTool\obj\Release\ViewTool.exe
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\ViewTool\ViewTool\obj\Release\ViewTool.pdb
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\ViewTool\ViewTool\obj\Release\ViewTool.Form3.resources
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\ViewTool\ViewTool\obj\Release\ViewTool.Form1.resources
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\ViewTool\ViewTool\obj\Release\ViewTool.Properties.Resources.resources
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\ViewTool\ViewTool\obj\Release\DisplayTools.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\ViewTool\ViewTool\bin\Release\ViewTool.exe
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\ViewTool\ViewTool\bin\Release\ViewTool.pdb
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\ViewTool\ViewTool\bin\Release\IrisSkin2.dll
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\ViewTool\ViewTool\obj\Release\ViewTool.ColorScreen.resources
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\DisplayTools\DisplayTools\bin\Release\IrisSkin2.dll
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\DisplayTools\DisplayTools\obj\Release\ViewTool.ColorScreen.resources
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\DisplayTools\DisplayTools\obj\Release\ViewTool.Form3.resources
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\DisplayTools\DisplayTools\obj\Release\ViewTool.Form1.resources
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\DisplayTools\DisplayTools\obj\Release\ViewTool.Properties.Resources.resources
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\DisplayTools\DisplayTools\obj\Release\DisplayTools.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\DisplayTools\DisplayTools\bin\Release\DisplayTool.exe
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\DisplayTools\DisplayTools\bin\Release\DisplayTool.pdb
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\DisplayTools\DisplayTools\obj\Release\DisplayTool.exe
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\DisplayTools\DisplayTools\obj\Release\DisplayTool.pdb
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\DisplayTools\DisplayTools\obj\Release\ViewTool.Form4.resources
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\DisplayTools\DisplayTools\obj\Release\ViewTool.AboutBox1.resources
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\DisplayTools\DisplayTools\bin\Release\DisplayTool.exe.manifest
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\DisplayTools\DisplayTools\bin\Release\DisplayTool.application
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\DisplayTools\DisplayTools\obj\Release\DisplayTool.exe.manifest
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\DisplayTools\DisplayTools\obj\Release\DisplayTool.application
+C:\Users\Dada\Desktop\DisplayTool\DisplayTool\DisplayTool源代码\子程序独立版\DisplayTools\DisplayTools\obj\Release\ViewTool.AboutBox1.resources
+C:\Users\Dada\Desktop\DisplayTool\DisplayTool\DisplayTool源代码\子程序独立版\DisplayTools\DisplayTools\obj\Release\ViewTool.ColorScreen.resources
+C:\Users\Dada\Desktop\DisplayTool\DisplayTool\DisplayTool源代码\子程序独立版\DisplayTools\DisplayTools\obj\Release\ViewTool.Form3.resources
+C:\Users\Dada\Desktop\DisplayTool\DisplayTool\DisplayTool源代码\子程序独立版\DisplayTools\DisplayTools\obj\Release\ViewTool.Form1.resources
+C:\Users\Dada\Desktop\DisplayTool\DisplayTool\DisplayTool源代码\子程序独立版\DisplayTools\DisplayTools\obj\Release\ViewTool.Form4.resources
+C:\Users\Dada\Desktop\DisplayTool\DisplayTool\DisplayTool源代码\子程序独立版\DisplayTools\DisplayTools\obj\Release\ViewTool.Properties.Resources.resources
+C:\Users\Dada\Desktop\DisplayTool\DisplayTool\DisplayTool源代码\子程序独立版\DisplayTools\DisplayTools\obj\Release\DisplayTools.csproj.GenerateResource.Cache
+C:\Users\Dada\Desktop\DisplayTool\DisplayTool\DisplayTool源代码\子程序独立版\DisplayTools\DisplayTools\obj\Release\DisplayTool.exe
+C:\Users\Dada\Desktop\DisplayTool\DisplayTool\DisplayTool源代码\子程序独立版\DisplayTools\DisplayTools\obj\Release\DisplayTool.pdb
+C:\Users\Dada\Desktop\DisplayTool\DisplayTool\DisplayTool源代码\子程序独立版\DisplayTools\DisplayTools\bin\Release\DisplayTool.exe.manifest
+C:\Users\Dada\Desktop\DisplayTool\DisplayTool\DisplayTool源代码\子程序独立版\DisplayTools\DisplayTools\bin\Release\DisplayTool.application
+C:\Users\Dada\Desktop\DisplayTool\DisplayTool\DisplayTool源代码\子程序独立版\DisplayTools\DisplayTools\bin\Release\DisplayTool.exe
+C:\Users\Dada\Desktop\DisplayTool\DisplayTool\DisplayTool源代码\子程序独立版\DisplayTools\DisplayTools\bin\Release\DisplayTool.pdb
+C:\Users\Dada\Desktop\DisplayTool\DisplayTool\DisplayTool源代码\子程序独立版\DisplayTools\DisplayTools\bin\Release\IrisSkin2.dll
+C:\Users\Dada\Desktop\DisplayTool\DisplayTool\DisplayTool源代码\子程序独立版\DisplayTools\DisplayTools\obj\Release\DisplayTool.exe.manifest
+C:\Users\Dada\Desktop\DisplayTool\DisplayTool\DisplayTool源代码\子程序独立版\DisplayTools\DisplayTools\obj\Release\DisplayTool.application

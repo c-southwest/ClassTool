@@ -1,0 +1,65 @@
+C:\Users\Dada\Desktop\ClassTool\主控程序\CTT课堂教学辅助工具\bin\Release\ClassTool.exe.config
+C:\Users\Dada\Desktop\ClassTool\主控程序\CTT课堂教学辅助工具\bin\Release\ClassTool.exe.manifest
+C:\Users\Dada\Desktop\ClassTool\主控程序\CTT课堂教学辅助工具\bin\Release\ClassTool.application
+C:\Users\Dada\Desktop\ClassTool\主控程序\CTT课堂教学辅助工具\bin\Release\ClassTool.exe
+C:\Users\Dada\Desktop\ClassTool\主控程序\CTT课堂教学辅助工具\bin\Release\ClassTool.pdb
+C:\Users\Dada\Desktop\ClassTool\主控程序\CTT课堂教学辅助工具\bin\Release\IrisSkin2.dll
+C:\Users\Dada\Desktop\ClassTool\主控程序\CTT课堂教学辅助工具\obj\Release\ViewTool.AboutBox1.resources
+C:\Users\Dada\Desktop\ClassTool\主控程序\CTT课堂教学辅助工具\obj\Release\ViewTool.ColorScreen.resources
+C:\Users\Dada\Desktop\ClassTool\主控程序\CTT课堂教学辅助工具\obj\Release\ViewTool.Form3.resources
+C:\Users\Dada\Desktop\ClassTool\主控程序\CTT课堂教学辅助工具\obj\Release\ViewTool.Form1.resources
+C:\Users\Dada\Desktop\ClassTool\主控程序\CTT课堂教学辅助工具\obj\Release\ViewTool.Form4.resources
+C:\Users\Dada\Desktop\ClassTool\主控程序\CTT课堂教学辅助工具\obj\Release\ViewTool.Form5.resources
+C:\Users\Dada\Desktop\ClassTool\主控程序\CTT课堂教学辅助工具\obj\Release\ViewTool.Form6.resources
+C:\Users\Dada\Desktop\ClassTool\主控程序\CTT课堂教学辅助工具\obj\Release\ViewTool.Properties.Resources.resources
+C:\Users\Dada\Desktop\ClassTool\主控程序\CTT课堂教学辅助工具\obj\Release\ClassTool.csproj.GenerateResource.cache
+C:\Users\Dada\Desktop\ClassTool\主控程序\CTT课堂教学辅助工具\obj\Release\ClassTool.csproj.CoreCompileInputs.cache
+C:\Users\Dada\Desktop\ClassTool\主控程序\CTT课堂教学辅助工具\obj\Release\ClassTool.exe.manifest
+C:\Users\Dada\Desktop\ClassTool\主控程序\CTT课堂教学辅助工具\obj\Release\ClassTool.application
+C:\Users\Dada\Desktop\ClassTool\主控程序\CTT课堂教学辅助工具\obj\Release\ClassTool.csproj.CopyComplete
+C:\Users\Dada\Desktop\ClassTool\主控程序\CTT课堂教学辅助工具\obj\Release\ClassTool.exe
+C:\Users\Dada\Desktop\ClassTool\主控程序\CTT课堂教学辅助工具\obj\Release\ClassTool.pdb
+C:\Users\Dada\Desktop\ClassTool\主控程序\CTT课堂教学辅助工具\obj\Release\ClassTool.csprojAssemblyReference.cache
+C:\Users\Dada\Desktop\ClassTool3.0 Source Code\MainProgram\ClassTool\bin\Release\ClassTool.exe.config
+C:\Users\Dada\Desktop\ClassTool3.0 Source Code\MainProgram\ClassTool\bin\Release\ClassTool.exe.manifest
+C:\Users\Dada\Desktop\ClassTool3.0 Source Code\MainProgram\ClassTool\bin\Release\ClassTool.application
+C:\Users\Dada\Desktop\ClassTool3.0 Source Code\MainProgram\ClassTool\bin\Release\ClassTool.exe
+C:\Users\Dada\Desktop\ClassTool3.0 Source Code\MainProgram\ClassTool\bin\Release\ClassTool.pdb
+C:\Users\Dada\Desktop\ClassTool3.0 Source Code\MainProgram\ClassTool\bin\Release\IrisSkin2.dll
+C:\Users\Dada\Desktop\ClassTool3.0 Source Code\MainProgram\ClassTool\obj\Release\ViewTool.AboutBox1.resources
+C:\Users\Dada\Desktop\ClassTool3.0 Source Code\MainProgram\ClassTool\obj\Release\ViewTool.ColorScreen.resources
+C:\Users\Dada\Desktop\ClassTool3.0 Source Code\MainProgram\ClassTool\obj\Release\ViewTool.Form3.resources
+C:\Users\Dada\Desktop\ClassTool3.0 Source Code\MainProgram\ClassTool\obj\Release\ViewTool.Form1.resources
+C:\Users\Dada\Desktop\ClassTool3.0 Source Code\MainProgram\ClassTool\obj\Release\ViewTool.Form4.resources
+C:\Users\Dada\Desktop\ClassTool3.0 Source Code\MainProgram\ClassTool\obj\Release\ViewTool.Form5.resources
+C:\Users\Dada\Desktop\ClassTool3.0 Source Code\MainProgram\ClassTool\obj\Release\ViewTool.Form6.resources
+C:\Users\Dada\Desktop\ClassTool3.0 Source Code\MainProgram\ClassTool\obj\Release\ViewTool.Properties.Resources.resources
+C:\Users\Dada\Desktop\ClassTool3.0 Source Code\MainProgram\ClassTool\obj\Release\ClassTool.csproj.GenerateResource.cache
+C:\Users\Dada\Desktop\ClassTool3.0 Source Code\MainProgram\ClassTool\obj\Release\ClassTool.csproj.CoreCompileInputs.cache
+C:\Users\Dada\Desktop\ClassTool3.0 Source Code\MainProgram\ClassTool\obj\Release\ClassTool.exe.manifest
+C:\Users\Dada\Desktop\ClassTool3.0 Source Code\MainProgram\ClassTool\obj\Release\ClassTool.application
+C:\Users\Dada\Desktop\ClassTool3.0 Source Code\MainProgram\ClassTool\obj\Release\ClassTool.csproj.CopyComplete
+C:\Users\Dada\Desktop\ClassTool3.0 Source Code\MainProgram\ClassTool\obj\Release\ClassTool.exe
+C:\Users\Dada\Desktop\ClassTool3.0 Source Code\MainProgram\ClassTool\obj\Release\ClassTool.pdb
+C:\Users\Dada\Desktop\ClassTool3.1 Source Code\MainProgram\ClassTool\bin\Release\ClassTool.exe.config
+C:\Users\Dada\Desktop\ClassTool3.1 Source Code\MainProgram\ClassTool\bin\Release\ClassTool.exe.manifest
+C:\Users\Dada\Desktop\ClassTool3.1 Source Code\MainProgram\ClassTool\bin\Release\ClassTool.application
+C:\Users\Dada\Desktop\ClassTool3.1 Source Code\MainProgram\ClassTool\bin\Release\ClassTool.exe
+C:\Users\Dada\Desktop\ClassTool3.1 Source Code\MainProgram\ClassTool\bin\Release\ClassTool.pdb
+C:\Users\Dada\Desktop\ClassTool3.1 Source Code\MainProgram\ClassTool\bin\Release\IrisSkin2.dll
+C:\Users\Dada\Desktop\ClassTool3.1 Source Code\MainProgram\ClassTool\obj\Release\ClassTool.csprojAssemblyReference.cache
+C:\Users\Dada\Desktop\ClassTool3.1 Source Code\MainProgram\ClassTool\obj\Release\ViewTool.AboutBox1.resources
+C:\Users\Dada\Desktop\ClassTool3.1 Source Code\MainProgram\ClassTool\obj\Release\ViewTool.ColorScreen.resources
+C:\Users\Dada\Desktop\ClassTool3.1 Source Code\MainProgram\ClassTool\obj\Release\ViewTool.Form3.resources
+C:\Users\Dada\Desktop\ClassTool3.1 Source Code\MainProgram\ClassTool\obj\Release\ViewTool.Form1.resources
+C:\Users\Dada\Desktop\ClassTool3.1 Source Code\MainProgram\ClassTool\obj\Release\ViewTool.Form4.resources
+C:\Users\Dada\Desktop\ClassTool3.1 Source Code\MainProgram\ClassTool\obj\Release\ViewTool.Form5.resources
+C:\Users\Dada\Desktop\ClassTool3.1 Source Code\MainProgram\ClassTool\obj\Release\ViewTool.Form6.resources
+C:\Users\Dada\Desktop\ClassTool3.1 Source Code\MainProgram\ClassTool\obj\Release\ViewTool.Properties.Resources.resources
+C:\Users\Dada\Desktop\ClassTool3.1 Source Code\MainProgram\ClassTool\obj\Release\ClassTool.csproj.GenerateResource.cache
+C:\Users\Dada\Desktop\ClassTool3.1 Source Code\MainProgram\ClassTool\obj\Release\ClassTool.csproj.CoreCompileInputs.cache
+C:\Users\Dada\Desktop\ClassTool3.1 Source Code\MainProgram\ClassTool\obj\Release\ClassTool.exe.manifest
+C:\Users\Dada\Desktop\ClassTool3.1 Source Code\MainProgram\ClassTool\obj\Release\ClassTool.application
+C:\Users\Dada\Desktop\ClassTool3.1 Source Code\MainProgram\ClassTool\obj\Release\ClassTool.csproj.CopyComplete
+C:\Users\Dada\Desktop\ClassTool3.1 Source Code\MainProgram\ClassTool\obj\Release\ClassTool.exe
+C:\Users\Dada\Desktop\ClassTool3.1 Source Code\MainProgram\ClassTool\obj\Release\ClassTool.pdb

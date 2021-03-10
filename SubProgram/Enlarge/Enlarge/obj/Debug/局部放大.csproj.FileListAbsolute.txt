@@ -1,0 +1,8 @@
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\CursorLight\局部放大\局部放大\bin\Debug\局部放大.exe
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\CursorLight\局部放大\局部放大\bin\Debug\局部放大.pdb
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\CursorLight\局部放大\局部放大\obj\Debug\局部放大.Form1.resources
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\CursorLight\局部放大\局部放大\obj\Debug\局部放大.Properties.Resources.resources
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\CursorLight\局部放大\局部放大\obj\Debug\局部放大.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\CursorLight\局部放大\局部放大\obj\Debug\局部放大.exe
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\CursorLight\局部放大\局部放大\obj\Debug\局部放大.pdb
+C:\Users\lenovo\Desktop\DisplayTools工程文件夹\子程序独立版\CursorLight\局部放大\局部放大\obj\Debug\局部放大.csprojResolveAssemblyReference.cache

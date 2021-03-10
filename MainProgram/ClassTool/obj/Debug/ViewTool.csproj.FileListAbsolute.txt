@@ -1,0 +1,8 @@
+E:\users\lenovo\documents\visual studio 2015\Projects\ViewTool\ViewTool\bin\Debug\ViewTool.exe
+E:\users\lenovo\documents\visual studio 2015\Projects\ViewTool\ViewTool\bin\Debug\ViewTool.pdb
+E:\users\lenovo\documents\visual studio 2015\Projects\ViewTool\ViewTool\obj\Debug\ViewTool.Form1.resources
+E:\users\lenovo\documents\visual studio 2015\Projects\ViewTool\ViewTool\obj\Debug\ViewTool.Properties.Resources.resources
+E:\users\lenovo\documents\visual studio 2015\Projects\ViewTool\ViewTool\obj\Debug\ViewTool.csproj.GenerateResource.Cache
+E:\users\lenovo\documents\visual studio 2015\Projects\ViewTool\ViewTool\obj\Debug\ViewTool.exe
+E:\users\lenovo\documents\visual studio 2015\Projects\ViewTool\ViewTool\obj\Debug\ViewTool.pdb
+E:\users\lenovo\documents\visual studio 2015\Projects\ViewTool\ViewTool\obj\Debug\ViewTool.Form2_mouse.resources

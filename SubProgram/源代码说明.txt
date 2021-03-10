@@ -1,0 +1,12 @@
+扩展程序：
+CursorLight		 激光笔
+Enlarge			 放大镜
+ScreenShot		 截图工具
+kill			 卸载时候调用的进程清理
+
+主程序：
+CTT课堂教学辅助工具	 主控程序
+
+
+所用编程语言：C#
+主要使用.Net4.0版本
