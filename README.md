@@ -1,4 +1,5 @@
 # ClassTool
+This program can highlight your mouse pointer, draw on the screen, do the screenshot that can keep at the top, and many more.
 
 ## Screenshot 
 ### Main Window
